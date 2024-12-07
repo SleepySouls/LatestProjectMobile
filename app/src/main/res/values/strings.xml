@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">DoAn</string>
+    <string name="my_map_api_key">agjapajpjapgaj</string>
+    <!--    dashboard-->
+    <string name="banner_logi">Welcome back!</string>
+    <string name="title">Username</string>
+    <string name="subtitle">ID: 0000001</string>
+    <string name="date_15_10_">Date: 15/10/2024</string>
+    <string name="the_number_">The number \nof potholes detected on \nyour route.</string>
+    <string name="some_id">6</string>
+    <string name="potholes">Potholes</string>
+    <string name="the_number_2">The number of potholes you have detected.\n</string>
+    <string name="some_id_2">24</string>
+    <string name="add">Add</string>
+    <string name="trip_duration">Trip duration</string>
+    <string name="some_id_3">0</string>
+    <string name="minutes">Minutes</string>
+    <string name="helpfull">Helpfulness</string>
+    <string name="some_id_4">8</string>
+    <string name="numpeople">People you have helped</string>
+    <!--    setting-->
+    <string name="banner_setting">Settings</string>
+    <string name="edit_pesona">Edit pesonal detail</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profil">Edit Profile</string>
+    <string name="change_pass">Change Password</string>
+    <string name="notificatio">Notifications and Feedback</string>
+    <string name="notification">Notifications</string>
+    <string name="feedback">Feedback</string>
+    <string name="regional">Regional</string>
+    <string name="language">Language</string>
+    <string name="log_out">Log out</string>
+    <!--    login-->
+    <string name="pothole_detection">"  Pothole \nDetection"</string>
+    <string name="powered_by_uit">Powered by UIT</string>
+    <string name="enter_your_username_email">Enter Your Username / Email:</string>
+    <string name="enter_your_password">Enter Your Password:</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="Login">Login</string>
+    <string name="donthaveaccount">"Don’t have an account? "</string>
+    <string name="signup">Sign up</string>
+    <!--    your detection-->
+    <string name="banner_your_dectected">Your Detection</string>
+    <string name="the_number_2_2">The number of potholes \n you have detected.\n</string>
+    <!--    main sign up-->
+    <string name="sign_up">Sign up</string>
+    <string name="enter_username">Enter Your Username</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_phonenum">Enter Your Phone Number</string>
+    <string name="enter_passwd">Enter Your Password</string>
+    <string name="enter_repasswd">Re-enter Your Password</string>
+    <string name="already_have">Already have an account?</string>
+    <string name="text_login">Login</string>
+    <!--    forgot screen-->
+    <string name="forgot_pass">Forgot \npassword ?</string>
+    <string name="no_worries_">No worries! Enter your email address below \nand we will send you a code to reset password.</string>
+    <string name="confirm">Confirm</string>
+    <!--    create passwd-->
+    <string name="create_pass">Create Password</string>
+    <string name="please_enter_word">Please enter and confirm your password. \nYou will need to login after reset</string>
+    <!--    check otp-->
+    <string name="check_mail">Check your email</string>
+    <string name="please_enter_code">We sent a verification code to nguyenvana@gmail.com. \nEnter 5-digit code that is mentioned in email</string>
+    <string name="didn_t_rece">Did not Receive Code?</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="time_resend_code">Resend code in 00:59</string>
+    <!--    your detection-->
+    <string name="street_name">Street name</string>
+    <!--    detection near you-->
+    <string name="Pothole_Detection">Pothole Detection</string>
+    <string name="Distance_in">Distance in</string>
+    <string name="meters">m</string>
+    <!--    your helpfulness-->
+    <string name="Your_Detection">Your Detection</string>
+    <!--    language-->
+    <string name="banner_language">Language</string>
+    <string name="choose_lang">Choose your language</string>
+    <string name="english">English</string>
+    <string name="vietnam">Vietnamese</string>
+    <string name="your_langua">Your language preference can be\nchanged at any time in Settings</string>
+    <string name="save">SAVE</string>
+    <string name="you_should">You should change your password\nperiodically to protect your account.</string>
+    <!--    change pass-->
+    <string name="banner_changepass">Change Password</string>
+    <string name="enter_old_password">Enter Old Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="re_enter_new_password">Re-enter New Password</string>
+    <string name="otp_digit_hint">0</string>
+    <!--    your profile-->
+    <string name="Your_Profile">Your Profile</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="day_of_birt">Day of Birth</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="update">Update</string>
+    <string name="enter_fullname">Enter your full name</string>
+    <string name="enter_phone_num">Enter your phone number</string>
+    <string name="enter_birthday">Enter your day of birth</string>
+    <string name="enter_address">Enter you address</string>
+    <string name="enter_your_email">Enter your email</string>
+    <!--    upload img-->
+    <string name="update_prof">Update profile picture</string>
+    <string name="choose_from">Choose from Device</string>
+    <string name="take_pictur">Take picture</string>
+    <string name="confirmbtn">Confirm</string>
+    <!--    feedback-->
+    <string name="banner_feedback">Feedback</string>
+    <string name="what_u_think">What do you think about the app?</string>
+    <string name="rate_ur_level">Please rate your level of satisfaction</string>
+    <string name="tell_us_more">Tell us a little more. (Optional)</string>
+    <string name="write_something">Please write something</string>
+    <string name="thank_you">Thank you so much! We’ll use this feedback to \nimprove your app experience.</string>
+    <string name="send_feedback">SEND FEEDBACK</string>
+</resources>

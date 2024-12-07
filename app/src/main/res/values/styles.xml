@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="banner_logi">
+        <item name="android:textColor">#CC000000</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="banner_your_dectected">
+        <item name="android:textColor">#CC000000</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="title">
+        <item name="android:textColor">#1F2024</item>
+        <item name="android:fontFamily">@font/interbold</item>
+    </style>
+    <style name="subtitle">
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#71727A</item>
+        <item name="android:fontFamily">@font/inter</item>
+    </style>
+    <style name="date_15_10_">
+        <item name="android:textColor">#061428</item>
+        <item name="android:fontFamily">@font/dmsansbold</item>
+    </style>
+    <style name="the_number_">
+        <item name="android:textColor">#D2416E</item>
+        <item name="android:fontFamily">@font/dm_sans</item>
+    </style>
+    <style name="some_id">
+        <item name="android:textColor">#D2416E</item>
+        <item name="android:fontFamily">@font/dmsansbold</item>
+    </style>
+    <style name="the_number_2">
+        <item name="android:textColor">#7042C9</item>
+        <item name="android:fontFamily">@font/dm_sans</item>
+    </style>
+    <style name="some_id_2">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textColor">#7042C9</item>
+    </style>
+    <style name="add">
+        <item name="android:textColor">#E6D9FE</item>
+        <item name="android:fontFamily">@font/dmsansbold</item>
+    </style>
+    <style name="trip_duration">
+        <item name="android:textColor">#0DB1AD</item>
+        <item name="android:fontFamily">@font/dm_sans</item>
+    </style>
+    <style name="some_id_3">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textColor">#0DB1AD</item>
+    </style>
+    <style name="helpfull">
+        <item name="android:fontFamily">@font/dm_sans</item>
+        <item name="android:textColor">#197BD2</item>
+    </style>
+    <style name="some_id_4">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textColor">#197BD2</item>
+    </style>
+    <style name="edit_pesona">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="dark_mode">
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">@font/dm_sans</item>
+    </style>
+    <style name="profile">
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="sign_up">
+        <item name="android:textColor">#C46F39</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="enter_your_">
+        <item name="android:textColor">#B3000000</item>
+        <item name="android:fontFamily">@font/dm_sans</item>
+    </style>
+    <style name="sign_up_inbtn">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#E6FFFFFF</item>
+    </style>
+    <style name="already_have">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">#CC000000</item>
+    </style>
+    <style name="text_login">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">#C46F39</item>
+    </style>
+    <style name="no_worries_">
+        <item name="android:fontFamily">@font/gabarito</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#475569</item>
+    </style>
+    <style name="create_pass">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#C46F39</item>
+    </style>
+    <style name="please_enter_word">
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#475569</item>
+        <item name="android:fontFamily">@font/gabarito</item>
+    </style>
+    <style name="didn_t_rece">
+        <item name="android:fontFamily">@font/gabarito</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#475569</item>
+    </style>
+    <style name="resend_code">
+        <item name="android:fontFamily">@font/gabarito</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#E2E8F0</item>
+    </style>
+    <style name="street_name">
+        <item name="android:fontFamily">@font/dm_sans</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="add_yourdetection">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textColor">#E6D9FE</item>
+    </style>
+    <style name="chooselang">
+        <item name="android:fontFamily">@font/dmsansmedium</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="english">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="your_langua">
+        <item name="android:fontFamily">@font/dmsansmedium</item>
+        <item name="android:textColor">#BF000000</item>
+    </style>
+    <style name="save">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="fullname">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#B2A8A8</item>
+    </style>
+    <style name="update">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#9DB865</item>
+    </style>
+    <style name="logoutbtn">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#A09898</item>
+    </style>
+    <style name="update_prof">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#B2A8A8</item>
+    </style>
+    <style name="choose_from">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#86CED9</item>
+    </style>
+    <style name="take_pictur">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#D986A6</item>
+    </style>
+    <style name="confirmbtn">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">#D1D7A4</item>
+    </style>
+    <style name="what_do_you">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="send_feedback">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

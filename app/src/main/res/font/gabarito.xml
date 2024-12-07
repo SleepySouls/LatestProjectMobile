@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font app:font="@font/gabaritobold" app:fontWeight="700"/>
+    <font app:font="@font/gabaritomedium" app:fontWeight="500"/>
+    <font app:font="@font/gabaritoregular" app:fontWeight="400"/>
+</font-family>
